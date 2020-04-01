@@ -7,6 +7,8 @@
     <keyboard-shortcut first-keystroke="shift meta down" />
   </action>
   <action id="IncrementWindowHeight" />
+  <action id="MethodDown" />
+  <action id="MethodUp" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="ReplaceInPath" />
