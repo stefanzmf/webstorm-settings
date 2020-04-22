@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".env.vulcan" type="PLAIN_TEXT" />
       <mapping pattern=".debug" type="XML" />
       <removed_mapping ext="debug" approved="true" type="XML" />
       <removed_mapping pattern=".debug" approved="true" type="Native" />
