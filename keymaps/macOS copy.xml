@@ -8,6 +8,9 @@
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
   <action id="IncrementWindowHeight" />
   <action id="MethodDown" />
   <action id="MethodUp" />
@@ -16,9 +19,6 @@
   <action id="ReplaceInPath" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
-  <action id="SearchEverywhere">
-    <keyboard-shortcut first-keystroke="meta o" />
-  </action>
   <action id="ServiceView.ShowServices">
     <keyboard-shortcut first-keystroke="shift meta t" />
     <keyboard-shortcut first-keystroke="shift meta r" />
