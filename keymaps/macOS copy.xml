@@ -6,16 +6,19 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift meta down" />
   </action>
+  <action id="FileChooser.TogglePathShowing" />
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta o" />
+    <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="IncrementWindowHeight" />
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="ParameterInfo" />
   <action id="ReplaceInPath" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
