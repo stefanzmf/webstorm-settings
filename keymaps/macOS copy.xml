@@ -14,12 +14,15 @@
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="IncrementWindowHeight" />
+  <action id="IntroduceField" />
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="ParameterInfo" />
-  <action id="ReplaceInPath" />
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="meta alt f" />
+  </action>
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="ServiceView.ShowServices">
