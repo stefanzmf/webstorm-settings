@@ -1,7 +1,6 @@
 <code_scheme name="Default" version="173">
   <HTMLCodeStyleSettings>
     <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
-    <option name="HTML_QUOTE_STYLE" value="Single" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
