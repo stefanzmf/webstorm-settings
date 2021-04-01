@@ -18,7 +18,7 @@
     <mask>*.js</mask>
     <mask>*.json</mask>
     <mask>*.html</mask>
-    <mask>*.twig</mask>
     <mask>*.scss</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
