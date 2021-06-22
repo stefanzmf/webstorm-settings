@@ -6,6 +6,7 @@
       <mapping pattern=".env.three" type="PLAIN_TEXT" />
       <mapping pattern=".env.newstaging" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
+      <mapping ext="njk" type="Twig" />
       <mapping pattern=".debug" type="XML" />
       <mapping ext="liquid" type="XML" />
       <removed_mapping ext="debug" approved="true" type="XML" />
