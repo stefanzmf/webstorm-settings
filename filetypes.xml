@@ -1,15 +1,16 @@
 <application>
-  <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.js.map;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;lib;vssver.scc;vssver2.scc;" />
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.js.map;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;lib;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern=".env.vulcan" type="PLAIN_TEXT" />
       <mapping pattern=".env.three" type="PLAIN_TEXT" />
       <mapping pattern=".env.newstaging" type="PLAIN_TEXT" />
+      <mapping pattern=".env.vulcan" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="njk" type="Twig" />
       <mapping pattern=".debug" type="XML" />
       <mapping ext="liquid" type="XML" />
       <removed_mapping ext="debug" approved="true" type="XML" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping pattern=".debug" approved="true" type="Native" />
     </extensionMap>
   </component>
