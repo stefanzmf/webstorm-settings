@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.njk" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.htm</mask>
@@ -21,5 +22,6 @@
     <mask>*.tsx</mask>
     <mask>*.json</mask>
     <mask>*.js</mask>
+    <mask>*.njk</mask>
   </component>
 </application>
