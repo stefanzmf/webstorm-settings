@@ -15,12 +15,12 @@
     <mask>*.ng</mask>
     <mask>*.htm</mask>
     <mask>*.sht</mask>
-    <mask>*.html</mask>
     <mask>*.ats</mask>
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.json</mask>
     <mask>*.tsx</mask>
     <mask>*.js</mask>
+    <mask>*.html</mask>
   </component>
 </application>
