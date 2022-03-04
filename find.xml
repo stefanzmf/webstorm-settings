@@ -20,7 +20,7 @@
     <mask>*.cjs</mask>
     <mask>*.json</mask>
     <mask>*.tsx</mask>
-    <mask>*.js</mask>
     <mask>*.html</mask>
+    <mask>*.js</mask>
   </component>
 </application>
