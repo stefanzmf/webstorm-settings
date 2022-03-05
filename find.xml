@@ -19,8 +19,8 @@
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.json</mask>
-    <mask>*.tsx</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
