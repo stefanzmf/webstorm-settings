@@ -6,13 +6,13 @@
       <mapping pattern=".env.vulcan" type="PLAIN_TEXT" />
       <mapping pattern=".env.newstaging" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
-      <mapping ext="njk" type="Twig" />
       <mapping pattern=".debug" type="XML" />
       <mapping ext="liquid" type="XML" />
       <removed_mapping ext="debug" approved="true" type="XML" />
       <removed_mapping ext="gql" approved="true" type="Graql" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping pattern=".debug" approved="true" type="Native" />
+      <mapping ext="njk" type="Twig" />
     </extensionMap>
   </component>
 </application>
