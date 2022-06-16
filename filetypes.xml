@@ -2,9 +2,11 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.js.map;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;lib;vssver.scc;vssver2.scc" />
     <extensionMap>
+      <mapping ext="php" type="AUTO_DETECTED" />
+      <hashBang value="*.php" type="HTML" />
+      <mapping pattern=".env.newstaging" type="PLAIN_TEXT" />
       <mapping pattern=".env.three" type="PLAIN_TEXT" />
       <mapping pattern=".env.vulcan" type="PLAIN_TEXT" />
-      <mapping pattern=".env.newstaging" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping pattern=".debug" type="XML" />
       <mapping ext="liquid" type="XML" />
