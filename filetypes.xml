@@ -4,9 +4,9 @@
     <extensionMap>
       <mapping ext="php" type="AUTO_DETECTED" />
       <hashBang value="*.php" type="HTML" />
-      <mapping pattern=".env.newstaging" type="PLAIN_TEXT" />
       <mapping pattern=".env.three" type="PLAIN_TEXT" />
       <mapping pattern=".env.vulcan" type="PLAIN_TEXT" />
+      <mapping pattern=".env.newstaging" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping pattern=".debug" type="XML" />
       <mapping ext="liquid" type="XML" />
