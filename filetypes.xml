@@ -7,6 +7,7 @@
       <mapping pattern=".env.vulcan" type="PLAIN_TEXT" />
       <mapping pattern=".env.newstaging" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
+      <mapping ext="bk" type="TypeScript" />
       <mapping pattern=".debug" type="XML" />
       <mapping ext="liquid" type="XML" />
       <removed_mapping ext="debug" approved="true" type="XML" />
