@@ -5,11 +5,11 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.css" />
     <mask>*.twig</mask>
     <mask>*.scss</mask>
     <mask>*.njk</mask>
     <mask>*.xml</mask>
-    <mask>*.css</mask>
     <mask>*.shtml</mask>
     <mask>*.shtm</mask>
     <mask>*.ng</mask>
@@ -24,5 +24,6 @@
     <mask>*.php</mask>
     <mask>*.js</mask>
     <mask>*.tsx</mask>
+    <mask>*.css</mask>
   </component>
 </application>
