@@ -22,7 +22,8 @@
     <mask>*.json</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
-    <mask>*.tsx</mask>
     <mask>*.css</mask>
+    <mask>*.tsx</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>
