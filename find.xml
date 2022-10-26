@@ -18,12 +18,12 @@
     <mask>*.cjs</mask>
     <mask>*.html</mask>
     <mask>*.ts,*.tsx</mask>
-    <mask>*.json</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.jsx</mask>
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
+    <mask>*.json</mask>
   </component>
 </application>
