@@ -6,7 +6,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.twig</mask>
-    <mask>*.scss</mask>
     <mask>*.njk</mask>
     <mask>*.xml</mask>
     <mask>*.shtml</mask>
@@ -25,5 +24,6 @@
     <mask>*.ts</mask>
     <mask>*.json</mask>
     <mask>*.tsx</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
